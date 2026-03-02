@@ -5,7 +5,7 @@ See our [official website](http://www.translationalneuromodeling.org/cpcourse/) 
 
 ## Main course 🎙
 
-The slides of main course lectures can be found under `main-course`.
+Main course slides are no longer stored in this repository.
 
 ## Tutorials 💻
 
